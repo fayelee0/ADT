@@ -1,0 +1,23 @@
+#+Title: ADT
+#+Author: faye lee <faye.v.lee@gmail.com>
+
+* ADT
+
+** TODO BitMap
+
+- State "TODO"       from              [2021-05-16 Sun 15:01] \\
+  Waiting
+
+** TODO Trie
+
+- State "TODO"       from              [2021-05-16 Sun 15:02] \\
+  Waiting
+
+** TODO HyperLogLog
+
+- State "TODO"       from              [2021-05-16 Sun 15:02] \\
+  Waiting
+
+** TODO SkipSet
+- State "TODO"       from              [2021-05-16 Sun 15:02] \\
+  Waiting
